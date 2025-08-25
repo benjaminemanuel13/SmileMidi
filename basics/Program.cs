@@ -8,9 +8,6 @@ using System;
 using System.Net;
 using Windows.Devices.Enumeration;
 
-// for comments on what each step does, please see the C++/WinRT sample
-// the code is almost identical
-
 Console.WriteLine("Checking for Windows MIDI Services");
 
 var player = new MidiPlayer();
