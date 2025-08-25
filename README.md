@@ -1,9 +1,7 @@
-# CSharp / .NET Samples
+# SmileMidi
 
-Using C# / WinRT and the latest versions of .NET to use the SDK and API.
+Simple Midi controller controlled tone generator.
 
-## Building the Samples
+Plan on using to create music on the Spectrum Next
 
-More information coming as the project progresses
-
-[C#/WinRT](https://learn.microsoft.com/windows/apps/develop/platform/csharp-winrt/)
+Based on Microsoft sample
